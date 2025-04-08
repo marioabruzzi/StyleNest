@@ -27,7 +27,7 @@ export default function Header() {
         <div className="flex justify-between items-center">
           <div className="relative w-24 h-12">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-NbQp5FxeGuiKOmwMpVkqvFO28tXwIY.png"
+              src="https://cdn.pixabay.com/photo/2016/05/17/22/16/baby-1399332_1280.jpg"
               alt="Fermy"
               fill
               className="object-contain"

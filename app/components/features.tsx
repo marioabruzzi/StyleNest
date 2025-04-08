@@ -71,7 +71,7 @@ export default function Features() {
           <div className="relative">
             <div className="aspect-[4/3] rounded-2xl overflow-hidden mb-6">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-uvTlVqL6zdl3rxG3ValUpgRBIBKT0z.png"
+                src="https://cdn.pixabay.com/photo/2024/04/18/14/31/ai-generated-8704440_1280.jpg"
                 alt="Nature of Amami Oshima"
                 fill
                 className="object-cover"

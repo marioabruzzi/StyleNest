@@ -83,7 +83,7 @@ export default function CTA() {
               </div>
               <div className="relative">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-NbQp5FxeGuiKOmwMpVkqvFO28tXwIY.png"
+                  src="https://cdn.pixabay.com/photo/2016/05/17/22/16/baby-1399332_1280.jpg"
                   alt="Fermy Bottle"
                   fill
                   className="object-cover"

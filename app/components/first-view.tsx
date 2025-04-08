@@ -63,7 +63,7 @@ export default function FirstView() {
           <div className="relative">
             <div className="relative aspect-square max-w-md mx-auto">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-NbQp5FxeGuiKOmwMpVkqvFO28tXwIY.png"
+                src="https://cdn.pixabay.com/photo/2016/05/17/22/16/baby-1399332_1280.jpg"
                 alt="Fermy Bottle"
                 fill
                 className="object-contain transform hover:scale-105 transition-transform duration-500"
